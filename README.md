@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Analyzing the Human Experience: A Story of Well-Being Across Countries
 
 #### Dataset Overview:
@@ -29,3 +30,7 @@ Moreover, encouraging freedom and reducing corruption should become priority age
 Lastly, understanding that emotional health significantly influences happiness suggests a need for comprehensive mental health programs integrated into public health policies. 
 
 In conclusion, our analysis illustrates that well-being is multifaceted—income and economy matter, but so do social ties, emotional health, and the perception of governance. As we move forward, these insights can guide us toward crafting societies that elevate human experience, making each life not just bearable but profoundly joyful.
+=======
+# project2
+automated analysis
+>>>>>>> b057329bc2fae4e3b322c58cc497db53095e64cd
